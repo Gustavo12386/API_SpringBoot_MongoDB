@@ -1,8 +1,8 @@
-# API_Spring_Boot_MongoDB
+# API_de_Posts_Spring_Boot_MongoDB
 
 ## 💻 Sobre a API
-- Se trata de uma api realizada com Java, SpringBoot e banco de dados não relacional MongoDB que realiza cadastro de usuários, no qual esses usuários tem direito de realizar
-um post que permite adicionar comentários dentro dele.
+- Se trata de uma api realizada no curso de Java Completo Programação Orientada a Objetos + Projetos do instrutor Nelio Alves que realiza cadastro de usuários,
+no qual esses usuários tem direito de realizar um post que permite adicionar comentários dentro dele.
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
