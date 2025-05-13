@@ -6,8 +6,7 @@ no qual esses usuários tem direito de realizar um post que permite adicionar co
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
-- SpringBoot 3.4.2
-- Spring Dev Tools Suite 4(IDE)
+- SpringBoot
 - Maven
 - MongoDB
 
